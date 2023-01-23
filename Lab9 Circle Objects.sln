@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab9 Circle Objects", "Lab9 Circle Objects\Lab9 Circle Objects.csproj", "{0A3D9DF9-9BCF-4369-A3CC-E4712CE6B06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3D9DF9-9BCF-4369-A3CC-E4712CE6B06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3D9DF9-9BCF-4369-A3CC-E4712CE6B06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3D9DF9-9BCF-4369-A3CC-E4712CE6B06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3D9DF9-9BCF-4369-A3CC-E4712CE6B06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A567DA97-5BD1-4115-8E45-98C70D2F5634}
+	EndGlobalSection
+EndGlobal
